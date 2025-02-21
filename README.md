@@ -1,4 +1,4 @@
-# Vamit's Automation Projects  
+ # Vamit's Automation Projects  
 
 A collection of my automation projects using Python, Google Apps Script, and FastAPI. These projects focus on automating dubbing, video backups, and data synchronization.  
 
@@ -50,9 +50,3 @@ A Python-based tool that automates dubbing videos using:
 📂 [View Project Folder](srt-translator/)  
 📂 [View Project Folder](intro-changer/)  
 
----
-
-## 📩 Contact  
-If you have any questions, feel free to reach out!  
-
----
